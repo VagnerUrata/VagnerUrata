@@ -11,11 +11,11 @@
 
 ##
           
-<a href="https://github.com/vagnerurata/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=vagnerurata&show_icons=true&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/vagnerurata">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=vagnerurata&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </a>
-<a href="https://github.com/vagnerurata/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnerurata&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/vagnerurata">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnerurata&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </a>
 
  ##
@@ -25,6 +25,3 @@
   <a href="https://www.linkedin.com/in/vagner-urata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-###
-
