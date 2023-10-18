@@ -10,10 +10,10 @@
 
           
 <a href="https://github.com/vagnerurata/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vagnerurata&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=vagnerurata&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/vagnerurata/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnerurata&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnerurata&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 
  ##
