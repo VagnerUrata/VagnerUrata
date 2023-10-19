@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Vagner Urata 👋
 
 - 🌱 Estudando Java/SpringBoot, SQl e DevOps
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas (UAM)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
