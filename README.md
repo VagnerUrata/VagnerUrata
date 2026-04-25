@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://github.com/vagnerurata">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=vagnerurata&show_icons=true&theme=dark"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnerurata&layout=compact&langs_count=6&theme=dark&hide=html,css&card_width=336"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=vagnerurata&layout=compact&langs_count=6&theme=dark&hide=html,css&card_width=380"/>
   </a>
 </div>
 
