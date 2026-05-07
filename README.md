@@ -1,9 +1,11 @@
 ## Olá! Eu sou o Vagner Urata 👋
 
-💻 Desenvolvedor Backend Java em evolução, com foco em APIs REST utilizando Spring Boot  
-🚀 Experiência com JPA, bancos relacionais e construção de regras de negócio  
-☁️ Experiência prévia com AWS (2021–2022)  
-⚙️ Buscando evoluir em boas práticas, arquitetura e desenvolvimento backend  
+💻 Backend Developer | Java & Spring Boot
+🚀 Desenvolvimento de APIs REST com Spring Boot, JPA, Spring Security e JWT
+📖 Documentação de APIs com Swagger/OpenAPI
+🗄️ Experiência com bancos relacionais e modelagem de regras de negócio
+☁️ Experiência prévia com AWS
+⚙️ Estudando arquitetura backend, microsserviços e boas práticas de desenvolvimento
 
 <p align="left">
   <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
